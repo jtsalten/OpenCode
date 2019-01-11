@@ -30,7 +30,7 @@ Property arrayOfObjects As array Of SampleApps.Serialize.MapTesting;
 
 Property reference As SampleApps.Serialize.MapTesting;
 
-Property customBasicDT As JTS.myType;
+Property customBasicDT As SampleApps.Serialize.customType;
 
 Property image As %Stream.GlobalBinary;
 
